@@ -47,7 +47,7 @@ const ismael: Developer = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend**
 
@@ -84,12 +84,16 @@ const ismael: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ismaelhuarte7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelhuarte7&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
+<!-- Stats generales — sin include_all_commits para evitar el error de fetch -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismaelhuarte7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
+&nbsp;
+<!-- Top langs — layout donut-vertical se ve más moderno -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelhuarte7&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&layout=donut-vertical&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelhuarte7&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&layout=compact&langs_count=8" />
+<!-- Streak — demolab es más estable -->
+<img src="https://streak-stats.demolab.com?user=ismaelhuarte7&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&card_width=500" />
 
 </div>
 
@@ -157,14 +161,6 @@ Aplicación web dockerizada para gestión e intercambio de embarcaciones con met
   ✦ Planificación de escalabilidad de la red institucional
 ```
 
-</div>
-
----
-
-## 📈 Actividad
-
-<div align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ismaelhuarte7&theme=react-dark&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" />
 </div>
 
 ---
