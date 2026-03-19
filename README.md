@@ -10,11 +10,6 @@
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=ismaelhuarte7&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/ismaelhuarte7?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" />
-
 </div>
 
 ---
@@ -47,7 +42,7 @@ const ismael: Developer = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Frontend**
 
@@ -84,11 +79,10 @@ const ismael: Developer = {
 
 <div align="center">
 
-<!-- Stats generales — sin include_all_commits para evitar el error de fetch -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismaelhuarte7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
 &nbsp;
-<!-- Top langs — layout donut-vertical se ve más moderno -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelhuarte7&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&layout=donut-vertical&langs_count=8" />
+<!-- Top langs — donut grande -->
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelhuarte7&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&layout=donut&langs_count=8&card_width=340" />
 
 <br/><br/>
 
@@ -171,7 +165,7 @@ Aplicación web dockerizada para gestión e intercambio de embarcaciones con met
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ismael--huarte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-huarte-419398267/)
 [![Gmail](https://img.shields.io/badge/Gmail-ismaelhuarte4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaelhuarte4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ismaelhuarte7-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismaelhuarte7)
+
 
 <br/>
 
