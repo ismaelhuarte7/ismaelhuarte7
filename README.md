@@ -111,6 +111,9 @@ Plataforma web full stack para gestión integral de inventario con API REST, aut
 
 ### 🏥 Clínica de Fertilidad con IA
 **Stack:** Django · Angular · JWT  
+
+[![Demo](https://img.shields.io/badge/Demo_en_Vivo-10B981?style=for-the-badge&logo=githubpages&logoColor=white)](https://ismaelhuarte7.github.io/Clinica-Fertilidad-TTPS/#/)
+
 Sistema de gestión clínica con trazabilidad completa de tratamientos, seguridad JWT y chatbot con IA integrado para asistencia automatizada a pacientes.  
 `#IA` `#DRF` `#Angular` `#Chatbot`
 
