@@ -12,6 +12,12 @@
 
 </div>
 
+<div align="center">
+  <a href="https://ismael-huarte-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Explorar_Portfolio-A78BFA?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
 ---
 
 ## 👨‍💻 Sobre mí
@@ -168,6 +174,9 @@ Aplicación web dockerizada para gestión e intercambio de embarcaciones con met
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ismael--huarte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-huarte-419398267/)
 [![Gmail](https://img.shields.io/badge/Gmail-ismaelhuarte4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaelhuarte4@gmail.com)
+<a href="https://ismael-huarte-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Explorar_Portfolio-A78BFA?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
 
 
 <br/>
